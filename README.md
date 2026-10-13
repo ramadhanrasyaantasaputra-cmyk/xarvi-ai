@@ -1,2 +1,0 @@
-# xarvi-ai
-Xarvi ai
